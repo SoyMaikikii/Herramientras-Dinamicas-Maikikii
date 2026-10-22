@@ -1,0 +1,11 @@
+RULETA POKÉMON CON SONIDOS
+
+1. Abre index.html en Chrome, Edge o Safari.
+2. Mantén las carpetas audio/ e icons/ junto al HTML.
+3. Copia tus 18 SVG del repositorio partywhale a icons/ (normal.svg, fire.svg, etc.).
+4. El audio original enviado se dividió en audio/giro.mp3 y audio/ganador.mp3.
+5. El giro dura 9.15 segundos y coincide con el sonido; después aparece la celebración con su fanfarria.
+6. Para GitHub Pages sube index.html, audio/ e icons/ al mismo repositorio.
+7. El sonido comienza tras pulsar Girar (o la barra espaciadora).
+
+Los SVG originales no se incluyen en este ZIP: conserva los que ya descargaste.

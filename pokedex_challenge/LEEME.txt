@@ -1,0 +1,14 @@
+POKÉDEX CHALLENGE — versión móvil con temporizador
+
+1. Abre index.html desde tu teléfono o computadora.
+2. Si tienes pokedex_challenge_offline.json, ponlo junto a index.html.
+   - En GitHub Pages (HTTPS), la app intentará cargarlo automáticamente.
+   - Si abres el HTML como archivo local, pulsa «Importar datos» y selecciónalo.
+3. Al seleccionar un Pokémon comienza una cuenta regresiva de 10 segundos.
+   Después el cronómetro cuenta hacia arriba (00:00, 00:01...).
+4. Puedes pausar, reanudar y reiniciar el reloj manualmente.
+5. La casilla «Iniciar reloj automáticamente tras 10 segundos» se recuerda en el navegador.
+
+Nota: el JSON offline no está incluido en este paquete porque no estaba disponible
+entre los archivos recibidos. Puedes copiar tu archivo actual sin modificarlo.
+Las imágenes de Pokémon aún pueden necesitar internet.

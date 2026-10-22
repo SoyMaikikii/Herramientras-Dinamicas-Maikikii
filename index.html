@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#10152c"><meta name="description" content="Herramientas de dinámicas Pokémon de Maikikii.">
+<title>Maikikii · Dinámicas Pokémon</title>
+<style>
+:root{color-scheme:dark;font-family:Inter,system-ui,-apple-system,Segoe UI,sans-serif}
+*{box-sizing:border-box}body{margin:0;min-height:100dvh;color:#f8f9ff;background:radial-gradient(ellipse at 50% -15%,#344479 0%,#171e3b 38%,#090e1e 85%)}
+.wrap{width:min(1100px,calc(100% - 36px));margin:auto;padding:40px 0 58px}
+header{display:flex;align-items:center;justify-content:space-between;gap:15px}
+.brand{display:flex;align-items:center;gap:12px;font-weight:900;letter-spacing:.4px}
+.ball{width:37px;height:37px;border:4px solid #0c132b;border-radius:50%;background:linear-gradient(#f04764 0 45%,#17213b 45% 56%,#f5f7ff 56%);position:relative;box-shadow:0 0 0 2px #f3cc69}
+.ball:after{content:"";position:absolute;top:50%;left:50%;width:11px;height:11px;transform:translate(-50%,-50%);background:white;border:3px solid #17213b;border-radius:50%}
+.tag{font-size:12px;color:#a8b9e7;border:1px solid #495a85;padding:8px 12px;border-radius:999px}
+.hero{text-align:center;padding:74px 0 46px}
+.eyebrow{font-size:12px;letter-spacing:3px;font-weight:800;color:#f5cb66}
+h1{font-size:clamp(38px,6vw,69px);line-height:1.07;letter-spacing:-2px;margin:15px 0}
+.hero p{color:#b8c5e6;max-width:570px;margin:0 auto;line-height:1.6}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}
+.card{position:relative;display:flex;flex-direction:column;min-height:370px;padding:29px;border:1px solid #47557b;border-radius:24px;text-decoration:none;color:inherit;overflow:hidden;transition:transform .2s,border-color .2s,box-shadow .2s;background:linear-gradient(135deg,#283559,#131c36)}
+.card:hover,.card:focus-visible{transform:translateY(-5px);border-color:#f8cd69;box-shadow:0 20px 60px #0005;outline:none}
+.card.wheel{background:radial-gradient(circle at 85% 10%,#5c377a 0%,transparent 48%),linear-gradient(135deg,#2b315d,#131a34)}
+.card.dex{background:radial-gradient(circle at 90% 0%,#225e75 0%,transparent 52%),linear-gradient(135deg,#213958,#131a34)}
+.card.future{min-height:160px;grid-column:1/-1;background:#131b32;border-style:dashed;border-color:#475575;align-items:center;justify-content:center;text-align:center}
+.art{height:145px;display:flex;align-items:center;justify-content:center}
+.roulette{width:135px;height:135px;border-radius:50%;border:9px solid #f4cf75;background:conic-gradient(#f55d82 0 40deg,#ffc845 40deg 80deg,#77c756 80deg 120deg,#59b2e8 120deg 160deg,#a680ec 160deg 200deg,#ed8338 200deg 240deg,#9d4ac2 240deg 280deg,#5d89ef 280deg 320deg,#efca55 320deg);box-shadow:0 8px 30px #0007;position:relative}
+.roulette:after{content:"";position:absolute;inset:39px;border-radius:50%;background:linear-gradient(#f34b64 0 43%,#19233c 43% 58%,white 58%);border:5px solid #f4cf75}
+.dexicon{width:120px;height:135px;border-radius:20px;background:#ed4e69;box-shadow:12px 10px 0 #10182f,0 10px 25px #0006;border:5px solid #ff9cac;display:grid;place-items:center;transform:rotate(-8deg)}
+.dexicon:after{content:"?";display:grid;place-items:center;width:72px;height:72px;background:#14213d;border-radius:50%;border:7px solid #d6eaff;color:#f4cd69;font-size:45px;font-weight:900}
+.kicker{font-size:11px;letter-spacing:2px;color:#f2cc6b;font-weight:900;text-transform:uppercase}
+h2{font-size:28px;margin:9px 0}
+.card p{color:#c3cee8;font-size:14px;line-height:1.55;margin:0 0 22px}
+.open{margin-top:auto;align-self:flex-start;background:#ffcf61;color:#18213c;padding:12px 20px;border-radius:11px;font-weight:900;font-size:14px}
+footer{text-align:center;color:#8b9bbb;font-size:12px;margin-top:38px}
+@media(max-width:700px){.wrap{width:min(100% - 26px,550px);padding-top:23px}.tag{display:none}.hero{padding:53px 0 32px}h1{letter-spacing:-1px}.grid{grid-template-columns:1fr;gap:15px}.card{min-height:330px;padding:24px}.card.future{min-height:135px}}
+@media(prefers-reduced-motion:reduce){.card{transition:none}}
+</style></head>
+<body><main class="wrap"><header><div class="brand"><span class="ball" aria-hidden="true"></span> MAIKIKII <span style="color:#f5cd6e">·</span> DINÁMICAS</div><span class="tag">Centro de herramientas Pokémon</span></header>
+<section class="hero"><div class="eyebrow">ELIGE TU DESAFÍO</div><h1>¿Qué jugamos <span style="color:#f5ce70">hoy?</span></h1><p>Todas tus herramientas de dinámicas Pokémon en un solo lugar. Elige una para comenzar la ronda.</p></section>
+<section class="grid" aria-label="Herramientas disponibles">
+<a class="card wheel" href="./ruleta_pokemon/index.html"><div class="art"><div class="roulette" aria-hidden="true"></div></div><div class="kicker">Dinámica 01</div><h2>Ruleta Pokémon</h2><p>Gira la ruleta de 18 tipos con sonido, animación de ganador y confeti.</p><span class="open">Abrir ruleta →</span></a>
+<a class="card dex" href="./pokedex_challenge/index.html"><div class="art"><div class="dexicon" aria-hidden="true"></div></div><div class="kicker">Dinámica 02</div><h2>Pokédex Challenge</h2><p>Adivina al Pokémon por su descripción. Sorteos, pistas progresivas y temporizador para el presentador.</p><span class="open">Abrir Pokédex →</span></a>
+<div class="card future"><div class="kicker">Próximamente</div><h2 style="font-size:21px">Más dinámicas en camino</h2><p style="margin:0">Podremos agregar nuevas herramientas a este mismo menú.</p></div>
+</section><footer>Hecho para las dinámicas de Maikikii · Un solo sitio, múltiples retos</footer></main></body></html>

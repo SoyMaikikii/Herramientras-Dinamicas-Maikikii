@@ -1,0 +1,893 @@
+{
+  "version": 1,
+  "exported": "2026-10-22T18:40:14.000Z",
+  "data": {
+    "carbink": {
+      "description": "Lleva varios cientos de millones de años durmiendo en las profundidades subterráneas, desde su nacimiento. Aparece a veces al excavar en cuevas.",
+      "version": "alpha-sapphire",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "generation": "generation-vi",
+      "id": 703,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
+      "nameEs": "Carbink"
+    },
+    "weedle": {
+      "description": "El aguijón de la cabeza es muy puntiagudo. Se alimenta de hojas oculto en la espesura de bosques y praderas.",
+      "version": "lets-go-eevee",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "generation": "generation-i",
+      "id": 13,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+      "nameEs": "Weedle"
+    },
+    "pichu": {
+      "description": "Es un Pokémon adorable, pero cuando se convive con él, uno tiene que estar preparado para recibir alguna que otra descarga eléctrica.",
+      "version": "moon",
+      "types": [
+        "electric"
+      ],
+      "generation": "generation-ii",
+      "id": 172,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+      "nameEs": "Pichu"
+    },
+    "scatterbug": {
+      "description": "Gracias al polvo de escamas que lo recubre y regula su temperatura, puede vivir en cualquier región, sin importar las características del terreno o el clima.",
+      "version": "alpha-sapphire",
+      "types": [
+        "bug"
+      ],
+      "generation": "generation-vi",
+      "id": 664,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+      "nameEs": "Scatterbug"
+    },
+    "fletchling": {
+      "description": "Su carácter amigable lo convierte en un Pokémon muy dócil. Ahora bien, en cuanto se pone a combatir, se vuelve un adversario implacable.",
+      "version": "sun",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "generation": "generation-vi",
+      "id": 661,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
+      "nameEs": "Fletchling"
+    },
+    "pidgey": {
+      "description": "Es manso y prefiere evitar los problemas. Sin embargo, si le molestan atacará ferozmente.",
+      "version": "y",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "generation": "generation-i",
+      "id": 16,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+      "nameEs": "Pidgey"
+    },
+    "mareep": {
+      "description": "Su lana acumula electricidad estática con la fricción. Al ser tan adorable, la gente se acerca para acariciarlo y se lleva un doloroso chispazo.",
+      "version": "ultra-moon",
+      "types": [
+        "electric"
+      ],
+      "generation": "generation-ii",
+      "id": 179,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+      "nameEs": "Mareep"
+    },
+    "bunnelby": {
+      "description": "Tiene unas orejas tan grandes que parecen palas. Las ha fortalecido tanto usándolas para excavar que son capaces de arrancar raíces bien gruesas.",
+      "version": "alpha-sapphire",
+      "types": [
+        "normal"
+      ],
+      "generation": "generation-vi",
+      "id": 659,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
+      "nameEs": "Bunnelby"
+    },
+    "patrat": {
+      "description": "Aunque es un Pokémon muy precavido y siempre hay uno montando guardia, si se acercan por detrás, no se dará cuenta.",
+      "version": "alpha-sapphire",
+      "types": [
+        "normal"
+      ],
+      "generation": "generation-v",
+      "id": 504,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png",
+      "nameEs": "Patrat"
+    },
+    "binacle": {
+      "description": "El impulso que cogen al erguirse les permite levantar su roca y caminar. Se alimentan de las algas que la marea arrastra hasta la orilla.",
+      "version": "alpha-sapphire",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "generation": "generation-vi",
+      "id": 688,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
+      "nameEs": "Binacle"
+    },
+    "magikarp": {
+      "description": "Como lo único que hace es chapotear en el agua, resulta una presa fácil. Gracias a esto, muchos otros Pokémon pueden sobrevivir.",
+      "version": "moon",
+      "types": [
+        "water"
+      ],
+      "generation": "generation-i",
+      "id": 129,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+      "nameEs": "Magikarp"
+    },
+    "budew": {
+      "description": "En invierno cierra su capullo para protegerse del frío. En primavera, el capullo se abre y esparce polen.",
+      "version": "alpha-sapphire",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "generation": "generation-iv",
+      "id": 406,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+      "nameEs": "Budew"
+    },
+    "skiddo": {
+      "description": "Puede generar energía con las hojas que tiene en la espalda disponiendo tan solo de agua y luz solar. Gracias a ello puede sobrevivir sin comer.",
+      "version": "alpha-sapphire",
+      "types": [
+        "grass"
+      ],
+      "generation": "generation-vi",
+      "id": 672,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png",
+      "nameEs": "Skiddo"
+    },
+    "pancham": {
+      "description": "Se desvive tratando de fulminar a su rival con una mirada aterradora, pero en cuanto le acarician la cabeza, no puede evitar sonreír de oreja a oreja.",
+      "version": "alpha-sapphire",
+      "types": [
+        "fighting"
+      ],
+      "generation": "generation-vi",
+      "id": 674,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
+      "nameEs": "Pancham"
+    },
+    "litleo": {
+      "description": "Este enérgico Pokémon es de naturaleza curiosa e inquieta y, tanto al comienzo de un combate como cuando se enoja, su crin prende fuego.",
+      "version": "ultra-moon",
+      "types": [
+        "fire",
+        "normal"
+      ],
+      "generation": "generation-vi",
+      "id": 667,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png",
+      "nameEs": "Litleo"
+    },
+    "espurr": {
+      "description": "Posee poderes psíquicos suficientes para lanzar por los aires objetos situados en un radio de 100 metros, pero carece de pericia para controlarlos.",
+      "version": "alpha-sapphire",
+      "types": [
+        "psychic"
+      ],
+      "generation": "generation-vi",
+      "id": 677,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png",
+      "nameEs": "Espurr"
+    },
+    "pikachu": {
+      "description": "Mientras duerme, acumula electricidad en las bolsas de sus mejillas. Si no logra conciliar el sueño, solo puede emitir débiles descargas.",
+      "version": "ultra-moon",
+      "types": [
+        "electric"
+      ],
+      "generation": "generation-i",
+      "id": 25,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+      "nameEs": "Pikachu"
+    },
+    "gastly": {
+      "description": "Según dicen, aparece en edificios antiguos y deshabitados. Su cuerpo, de aspecto gaseoso, carece de una forma definida.",
+      "version": "lets-go-eevee",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "generation": "generation-i",
+      "id": 92,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+      "nameEs": "Gastly"
+    },
+    "spewpa": {
+      "description": "Habita en la sombra de la espesura. Si percibe alguna amenaza, su pelaje se eriza y se vuelve muy afilado para así intimidar al enemigo.",
+      "version": "omega-ruby",
+      "types": [
+        "bug"
+      ],
+      "generation": "generation-vi",
+      "id": 665,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/665.png",
+      "nameEs": "Spewpa"
+    },
+    "ekans": {
+      "description": "Los huevos de Pokémon pájaro son su manjar predilecto. Como se los traga enteros, en ocasiones se atraganta y pierde el conocimiento.",
+      "version": "ultra-moon",
+      "types": [
+        "poison"
+      ],
+      "generation": "generation-i",
+      "id": 23,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+      "nameEs": "Ekans"
+    },
+    "spinarak": {
+      "description": "Espera con determinación hasta que un Cutiefly cae en su telaraña, pues es su comida favorita. Es un Pokémon extremadamente paciente.",
+      "version": "sun",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "generation": "generation-ii",
+      "id": 167,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
+      "nameEs": "Spinarak"
+    },
+    "pidgeotto": {
+      "description": "Tiene unas garras desarrolladas. Puede atrapar un Exeggcute y transportarlo desde una distancia de casi 100 km.",
+      "version": "x",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "generation": "generation-i",
+      "id": 17,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+      "nameEs": "Pidgeotto"
+    },
+    "venipede": {
+      "description": "Sus colmillos contienen un veneno letal. Si encuentra una presa que parece comestible, se abalanza sobre ella sin pensárselo dos veces.",
+      "version": "shield",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "generation": "generation-v",
+      "id": 543,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+      "nameEs": "Venipede"
+    },
+    "electrike": {
+      "description": "Acumula electricidad estática en el pelaje para lanzar descargas. Cuando va a haber tormenta, suelta chispas por todo el cuerpo.",
+      "version": "sword",
+      "types": [
+        "electric"
+      ],
+      "generation": "generation-iii",
+      "id": 309,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+      "nameEs": "Electrike"
+    },
+    "bellsprout": {
+      "description": "Tiene cara de persona. Por el aspecto que tiene se ha comentado que podría ser algún tipo de mandrágora legendaria.",
+      "version": "y",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "generation": "generation-i",
+      "id": 69,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+      "nameEs": "Bellsprout"
+    },
+    "abra": {
+      "description": "Puede teletransportarse mientras duerme. Se dice que, cuanto más profundo sea su sueño, mayor será la distancia a la que se desplace.",
+      "version": "shield",
+      "types": [
+        "psychic"
+      ],
+      "generation": "generation-i",
+      "id": 63,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+      "nameEs": "Abra"
+    },
+    "fletchinder": {
+      "description": "Cuanto más intenso sea el calor que se genera en la saca de fuego de su vientre, más rápido es capaz de volar. Sin embargo, la llama tarda en prender.",
+      "version": "alpha-sapphire",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "generation": "generation-vi",
+      "id": 662,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
+      "nameEs": "Fletchinder"
+    },
+    "meditite": {
+      "description": "Se entrena en la profundidad de las montañas. Cuando aumenta su poder espiritual con meditación, levita.",
+      "version": "x",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "generation": "generation-iii",
+      "id": 307,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
+      "nameEs": "Meditite"
+    },
+    "buneary": {
+      "description": "Si bien sus extremidades pecan de débiles, si enrolla las orejas y luego las extiende, puede hacer añicos incluso rocas bien grandes.",
+      "version": "ultra-sun",
+      "types": [
+        "normal"
+      ],
+      "generation": "generation-iv",
+      "id": 427,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+      "nameEs": "Buneary"
+    },
+    "houndour": {
+      "description": "Famoso por su lealtad y ánimo cooperativo. Obedecerá sin dudar todo cuanto le ordene su Entrenador.",
+      "version": "ultra-sun",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "generation": "generation-ii",
+      "id": 228,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+      "nameEs": "Houndour"
+    },
+    "swablu": {
+      "description": "Está continuamente acicalándose las alas de algodón que tiene. Si se ensucia, se da una ducha para limpiarse enseguida.",
+      "version": "y",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "generation": "generation-iii",
+      "id": 333,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png",
+      "nameEs": "Swablu"
+    },
+    "flaaffy": {
+      "description": "Cuando su pelaje se carga de electricidad, su cola se enciende. Lanza pelo que explota al impacto.",
+      "version": "y",
+      "types": [
+        "electric"
+      ],
+      "generation": "generation-ii",
+      "id": 180,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+      "nameEs": "Flaaffy"
+    },
+    "audino": {
+      "description": "Al tocar a alguien con las antenas de sus orejas, conoce su estado de ánimo y de salud por los latidos del corazón.",
+      "version": "alpha-sapphire",
+      "types": [
+        "normal"
+      ],
+      "generation": "generation-v",
+      "id": 531,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
+      "nameEs": "Audino"
+    },
+    "vanillite": {
+      "description": "Al abrazarlo transmite una sensación agradable y refrescante. La gente que vive en las regiones cálidas aprecia mucho su presencia en casa.",
+      "version": "moon",
+      "types": [
+        "ice"
+      ],
+      "generation": "generation-v",
+      "id": 582,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+      "nameEs": "Vanillite"
+    },
+    "roselia": {
+      "description": "Ataca con sus manos, cada una de las cuales contiene un tipo de veneno diferente. Cuanto más intenso es su aroma, mejor salud tiene.",
+      "version": "shield",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "generation": "generation-iii",
+      "id": 315,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png",
+      "nameEs": "Roselia"
+    },
+    "hippopotas": {
+      "description": "Se desplaza con la boca abierta engullendo tanto presas como arena por igual. Luego, expulsa la arenilla por la nariz.",
+      "version": "sword",
+      "types": [
+        "ground"
+      ],
+      "generation": "generation-iv",
+      "id": 449,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
+      "nameEs": "Hippopotas"
+    },
+    "numel": {
+      "description": "Almacena en su cuerpo magma a 1200 °C. Su joroba mengua cuando utiliza movimientos de tipo Fuego.",
+      "version": "y",
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "generation": "generation-iii",
+      "id": 322,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+      "nameEs": "Numel"
+    },
+    "sandile": {
+      "description": "El hábitat de Alola, cálido durante todo el año, es ideal para este Pokémon, por lo que también se le puede ver fuera del desierto.",
+      "version": "ultra-sun",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "generation": "generation-v",
+      "id": 551,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
+      "nameEs": "Sandile"
+    },
+    "krokorok": {
+      "description": "Su gran debilidad es el frío, por lo que cuando bajan las temperaturas de noche en el desierto, excava un agujero en la arena y se cobija en él.",
+      "version": "ultra-sun",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "generation": "generation-v",
+      "id": 552,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png",
+      "nameEs": "Krokorok"
+    },
+    "gible": {
+      "description": "Vive en el interior de cuevas, al amparo del calor geotérmico. Si aun así sigue sintiendo frío, se junta con sus congéneres haciendo una piña.",
+      "version": "sun",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "generation": "generation-iv",
+      "id": 443,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
+      "nameEs": "Gible"
+    },
+    "drilbur": {
+      "description": "Su costumbre de horadar túneles bajo tierra le ha granjeado la antipatía de los agricultores, ya que puede echar a perder cosechas enteras.",
+      "version": "shield",
+      "types": [
+        "ground"
+      ],
+      "generation": "generation-v",
+      "id": 529,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+      "nameEs": "Drilbur"
+    },
+    "machop": {
+      "description": "Obtiene su fuerza descomunal, con la que es capaz de lanzar a 100 personas por los aires, mediante un levantamiento de Graveler diario.",
+      "version": "moon",
+      "types": [
+        "fighting"
+      ],
+      "generation": "generation-i",
+      "id": 66,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "nameEs": "Machop"
+    },
+    "kadabra": {
+      "description": "Duerme suspendido en el aire gracias a sus poderes psíquicos. La cola, de una flexibilidad extraordinaria, hace las veces de almohada.",
+      "version": "sword",
+      "types": [
+        "psychic"
+      ],
+      "generation": "generation-i",
+      "id": 64,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+      "nameEs": "Kadabra"
+    },
+    "sableye": {
+      "description": "Le gustan mucho las joyas, por lo que suele merodear cerca de los Carbink. Sin embargo, los Gabite siempre se le suelen adelantar.",
+      "version": "sun",
+      "types": [
+        "dark",
+        "ghost"
+      ],
+      "generation": "generation-iii",
+      "id": 302,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+      "nameEs": "Sableye"
+    },
+    "mawile": {
+      "description": "Con su cara inocente hace que el rival se confíe y, al bajar la guardia, le da un mordisco con sus enormes fauces del que no se puede liberar.",
+      "version": "sword",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "generation": "generation-iii",
+      "id": 303,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+      "nameEs": "Mawile"
+    },
+    "slowpoke": {
+      "description": "Es lento y abstraído. Aunque le devoren la cola, ni siquiera se percata, ya que no siente ningún dolor. Tampoco nota cuando le vuelve a crecer.",
+      "version": "sword",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "generation": "generation-i",
+      "id": 79,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+      "nameEs": "Slowpoke"
+    },
+    "arbok": {
+      "description": "Tras confundir a su presa con el motivo de su cuerpo, se enrosca a su alrededor y la aferra, a la espera de que su pulso se detenga.",
+      "version": "ultra-moon",
+      "types": [
+        "poison"
+      ],
+      "generation": "generation-i",
+      "id": 24,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+      "nameEs": "Arbok"
+    },
+    "watchog": {
+      "description": "Los componentes luminiscentes de su interior hacen que sus ojos y su cuerpo brillen, y así intimida a sus rivales.",
+      "version": "omega-ruby",
+      "types": [
+        "normal"
+      ],
+      "generation": "generation-v",
+      "id": 505,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
+      "nameEs": "Watchog"
+    },
+    "carvanha": {
+      "description": "Es algo timorato, por lo que nunca va solo. Pero, en cuanto se reúnen cinco ejemplares, de pronto se convierten en una fuerza de la naturaleza.",
+      "version": "ultra-sun",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "generation": "generation-iii",
+      "id": 318,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
+      "nameEs": "Carvanha"
+    },
+    "clauncher": {
+      "description": "Para moverse, expulsa chorros de agua por su pinza derecha. Tiene muy mal equilibrio, por lo que es incapaz de nadar en línea recta.",
+      "version": "ultra-moon",
+      "types": [
+        "water"
+      ],
+      "generation": "generation-vi",
+      "id": 692,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+      "nameEs": "Clauncher"
+    },
+    "furfrou": {
+      "description": "Cuando le esquilan su mullido pelaje, no solo mejora su apariencia, sino que aumenta su agilidad.",
+      "version": "omega-ruby",
+      "types": [
+        "normal"
+      ],
+      "generation": "generation-vi",
+      "id": 676,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png",
+      "nameEs": "Furfrou"
+    },
+    "inkay": {
+      "description": "Los destellos de luz intermitente que emite aplacan el ánimo de lucha del enemigo, tras lo que aprovecha para esconderse.",
+      "version": "shield",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "generation": "generation-vi",
+      "id": 686,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+      "nameEs": "Inkay"
+    },
+    "stunfisk": {
+      "description": "Se desconoce la razón, pero esboza una leve sonrisa al liberar potentes descargas eléctricas a través de las zonas amarillentas de su cuerpo.",
+      "version": "shield",
+      "types": [
+        "ground",
+        "electric"
+      ],
+      "generation": "generation-v",
+      "id": 618,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
+      "nameEs": "Stunfisk"
+    },
+    "delibird": {
+      "description": "Si ve a alguien en apuros, comparte su alimento con él. Aunque, al ser omnívoro, podría ser que compartiera algún que otro Pokémon insecto.",
+      "version": "ultra-sun",
+      "types": [
+        "ice",
+        "flying"
+      ],
+      "generation": "generation-ii",
+      "id": 225,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+      "nameEs": "Delibird"
+    },
+    "snover": {
+      "description": "Las bayas con aspecto de helado que le crecen alrededor de la barriga son la comida favorita de los Darumaka que habitan en Galar.",
+      "version": "shield",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "generation": "generation-iv",
+      "id": 459,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+      "nameEs": "Snover"
+    },
+    "bergmite": {
+      "description": "Envuelve su cuerpo en una capa de hielo que le permite evitar los ataques del enemigo. Si se resquebraja, la recompone con aire gélido.",
+      "version": "omega-ruby",
+      "types": [
+        "ice"
+      ],
+      "generation": "generation-vi",
+      "id": 712,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+      "nameEs": "Bergmite"
+    },
+    "gogoat": {
+      "description": "Percibe los sentimientos del Entrenador por la forma en la que agarra sus cuernos, aunque sean variaciones sutiles, y así avanzan como si fueran un solo ente.",
+      "version": "omega-ruby",
+      "types": [
+        "grass"
+      ],
+      "generation": "generation-vi",
+      "id": 673,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+      "nameEs": "Gogoat"
+    },
+    "snorunt": {
+      "description": "Se alimenta sobre todo de hielo y nieve. Debido a las temperaturas cálidas que reinan en Alola, solo puede habitar en contados lugares.",
+      "version": "ultra-sun",
+      "types": [
+        "ice"
+      ],
+      "generation": "generation-iii",
+      "id": 361,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
+      "nameEs": "Snorunt"
+    },
+    "machoke": {
+      "description": "Posee una fuerza extraordinaria, obtenida a través de un tenaz entrenamiento. Utiliza su fuerza para ayudar a las personas.",
+      "version": "sun",
+      "types": [
+        "fighting"
+      ],
+      "generation": "generation-i",
+      "id": 67,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+      "nameEs": "Machoke"
+    },
+    "heracross": {
+      "description": "Tiene una fuerza descomunal. Puede, sin gran esfuerzo, arrojar objetos que superen su peso en cien veces.",
+      "version": "y",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "generation": "generation-ii",
+      "id": 214,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+      "nameEs": "Heracross"
+    },
+    "pinsir": {
+      "description": "Es de constitución robusta, pero no soporta el frío. Al caer la noche, se cubre con un manto de hojas antes de conciliar el sueño.",
+      "version": "ultra-moon",
+      "types": [
+        "bug"
+      ],
+      "generation": "generation-i",
+      "id": 127,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+      "nameEs": "Pinsir"
+    },
+    "onix": {
+      "description": "Al abrirse paso bajo tierra, va absorbiendo todo lo que encuentra. Eso hace que su cuerpo sea así de sólido.",
+      "version": "sword",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "generation": "generation-i",
+      "id": 95,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+      "nameEs": "Onix"
+    },
+    "aron": {
+      "description": "Este Pokémon tiene el cuerpo de acero. Para mantenerlo, se alimenta del hierro que saca de las montañas. A veces, causa verdaderos problemas, pues se come puentes y vías de tren.",
+      "version": "omega-ruby",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "generation": "generation-iii",
+      "id": 304,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+      "nameEs": "Aron"
+    },
+    "lairon": {
+      "description": "Habita en zonas ricas en hierro y con numerosos manantiales, por lo que en el pasado las disputas territoriales con los humanos eran frecuentes.",
+      "version": "sword",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "generation": "generation-iii",
+      "id": 305,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+      "nameEs": "Lairon"
+    },
+    "emolga": {
+      "description": "Planea por el aire, casi como si danzara, mientras desprende electricidad. Resulta adorable, pero puede causar bastantes problemas.",
+      "version": "sword",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "generation": "generation-v",
+      "id": 587,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
+      "nameEs": "Emolga"
+    },
+    "helioptile": {
+      "description": "Habita en los desiertos y, cuando toma el sol, acumula energía, lo que le permite vivir sin la necesidad de ingerir alimentos.",
+      "version": "omega-ruby",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "generation": "generation-vi",
+      "id": 694,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
+      "nameEs": "Helioptile"
+    },
+    "whirlipede": {
+      "description": "Normalmente no se mueve, pero se pone a rodar frenéticamente y contraataca con placajes si lo atacan.",
+      "version": "alpha-sapphire",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "generation": "generation-v",
+      "id": 544,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+      "nameEs": "Whirlipede"
+    },
+    "beedrill": {
+      "description": "Tiene tres aguijones venenosos, dos en las patas anteriores y uno en la parte baja del abdomen, con los que ataca a sus enemigos una y otra vez.",
+      "version": "lets-go-eevee",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "generation": "generation-i",
+      "id": 15,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+      "nameEs": "Beedrill"
+    },
+    "larvitar": {
+      "description": "Nace bajo el suelo y, para reunirse con sus progenitores en la superficie, asciende comiendo tierra. Evita la luz directa porque lo deslumbra.",
+      "version": "ultra-sun",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "generation": "generation-ii",
+      "id": 246,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+      "nameEs": "Larvitar"
+    },
+    "falinks": {
+      "description": "Este Pokémon está formado por seis individuos que cambian de formación al luchar, haciendo gala de un notable espíritu de equipo.",
+      "version": "shield",
+      "types": [
+        "fighting"
+      ],
+      "generation": "generation-viii",
+      "id": 870,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+      "nameEs": "Falinks"
+    },
+    "florges": {
+      "description": "Habita en preciosos jardines floridos. Absorbe la energía que emiten las plantas y la convierte en su fuente de poder.",
+      "version": "omega-ruby",
+      "types": [
+        "fairy"
+      ],
+      "generation": "generation-vi",
+      "id": 671,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
+      "nameEs": "Florges"
+    },
+    "froakie": {
+      "description": "Protege su piel cubriendo el cuerpo con una fina capa de burbujas. Aunque parezca despreocupado, no deja de vigilar con astucia lo que le rodea.",
+      "version": "alpha-sapphire",
+      "types": [
+        "water"
+      ],
+      "generation": "generation-vi",
+      "id": 656,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+      "nameEs": "Froakie"
+    },
+    "skarmory": {
+      "description": "Su cuerpo metálico es muy robusto, pero se oxida con facilidad, por lo que suele quedarse descansando en su nido cuando llueve.",
+      "version": "moon",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "generation": "generation-ii",
+      "id": 227,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+      "nameEs": "Skarmory"
+    },
+    "diggersby": {
+      "description": "Sus orejas, tan poderosas como una excavadora, pueden hacer añicos hasta la roca más sólida. Cuando termina de cavar, se toma un respiro.",
+      "version": "alpha-sapphire",
+      "types": [
+        "normal",
+        "ground"
+      ],
+      "generation": "generation-vi",
+      "id": 660,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+      "nameEs": "Diggersby"
+    },
+    "chespin": {
+      "description": "La robusta coraza que le recubre la cabeza y la espalda lo protege de tal manera que podría chocar contra un camión y permanecer impasible.",
+      "version": "alpha-sapphire",
+      "types": [
+        "grass"
+      ],
+      "generation": "generation-vi",
+      "id": 650,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png",
+      "nameEs": "Chespin"
+    },
+    "fennekin": {
+      "description": "Mordisquea una ramita mientras camina, como si de un aperitivo se tratase. Intimida a su enemigo expulsando aire caliente por las orejas.",
+      "version": "alpha-sapphire",
+      "types": [
+        "fire"
+      ],
+      "generation": "generation-vi",
+      "id": 653,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+      "nameEs": "Fennekin"
+    },
+    "bagon": {
+      "description": "Vive en solitario, sin formar manadas, y posee una cabeza dura como la piedra que le permite hacer añicos rocas enormes de un solo golpe.",
+      "version": "shield",
+      "types": [
+        "dragon"
+      ],
+      "generation": "generation-iii",
+      "id": 371,
+      "art": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
+      "nameEs": "Bagon"
+    }
+  }
+}

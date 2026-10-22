@@ -1,0 +1,741 @@
+[
+  {
+    "key": "weedle",
+    "name": "Weedle",
+    "zones": [
+      1
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "pichu",
+    "name": "Pichu",
+    "zones": [
+      1
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "scatterbug",
+    "name": "Scatterbug",
+    "zones": [
+      1
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "fletchling",
+    "name": "Fletchling",
+    "zones": [
+      1,
+      5
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "pidgey",
+    "name": "Pidgey",
+    "zones": [
+      1,
+      5
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "mareep",
+    "name": "Mareep",
+    "zones": [
+      1
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "bunnelby",
+    "name": "Bunnelby",
+    "zones": [
+      1,
+      5
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "patrat",
+    "name": "Patrat",
+    "zones": [
+      2,
+      4
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "binacle",
+    "name": "Binacle",
+    "zones": [
+      2,
+      5,
+      6
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "magikarp",
+    "name": "Magikarp",
+    "zones": [
+      2,
+      6
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "budew",
+    "name": "Budew",
+    "zones": [
+      2
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "skiddo",
+    "name": "Skiddo",
+    "zones": [
+      3
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "pancham",
+    "name": "Pancham",
+    "zones": [
+      3
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "litleo",
+    "name": "Litleo",
+    "zones": [
+      3
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "espurr",
+    "name": "Espurr",
+    "zones": [
+      3,
+      9
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "pikachu",
+    "name": "Pikachu",
+    "zones": [
+      3
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "gastly",
+    "name": "Gastly",
+    "zones": [
+      4
+    ],
+    "condition": "Revisar horario",
+    "enabled": true
+  },
+  {
+    "key": "spewpa",
+    "name": "Spewpa",
+    "zones": [
+      4
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "ekans",
+    "name": "Ekans",
+    "zones": [
+      4
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "spinarak",
+    "name": "Spinarak",
+    "zones": [
+      4
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "pidgeotto",
+    "name": "Pidgeotto",
+    "zones": [
+      5
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "venipede",
+    "name": "Venipede",
+    "zones": [
+      5
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "electrike",
+    "name": "Electrike",
+    "zones": [
+      5
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "bellsprout",
+    "name": "Bellsprout",
+    "zones": [
+      5,
+      10
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "abra",
+    "name": "Abra",
+    "zones": [
+      5
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "fletchinder",
+    "name": "Fletchinder",
+    "zones": [
+      5,
+      7,
+      9
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "meditite",
+    "name": "Meditite",
+    "zones": [
+      6
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "buneary",
+    "name": "Buneary",
+    "zones": [
+      6
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "houndour",
+    "name": "Houndour",
+    "zones": [
+      6
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "swablu",
+    "name": "Swablu",
+    "zones": [
+      6,
+      18
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "flaaffy",
+    "name": "Flaaffy",
+    "zones": [
+      6,
+      16
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "audino",
+    "name": "Audino",
+    "zones": [
+      7,
+      19
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "vanillite",
+    "name": "Vanillite",
+    "zones": [
+      7,
+      12
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "roselia",
+    "name": "Roselia",
+    "zones": [
+      7
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "hippopotas",
+    "name": "Hippopotas",
+    "zones": [
+      7
+    ],
+    "condition": "Preferentemente de día",
+    "enabled": true
+  },
+  {
+    "key": "numel",
+    "name": "Numel",
+    "zones": [
+      8
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "sandile",
+    "name": "Sandile",
+    "zones": [
+      8
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "krokorok",
+    "name": "Krokorok",
+    "zones": [
+      8
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "gible",
+    "name": "Gible",
+    "zones": [
+      8
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "drilbur",
+    "name": "Drilbur",
+    "zones": [
+      8,
+      14
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "machop",
+    "name": "Machop",
+    "zones": [
+      8,
+      12
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "carbink",
+    "name": "Carbink",
+    "zones": [
+      9
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "kadabra",
+    "name": "Kadabra",
+    "zones": [
+      9
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "sableye",
+    "name": "Sableye",
+    "zones": [
+      9
+    ],
+    "condition": "Revisar aparición",
+    "enabled": true
+  },
+  {
+    "key": "mawile",
+    "name": "Mawile",
+    "zones": [
+      9
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "slowpoke",
+    "name": "Slowpoke",
+    "zones": [
+      10,
+      11
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "arbok",
+    "name": "Arbok",
+    "zones": [
+      10
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "watchog",
+    "name": "Watchog",
+    "zones": [
+      10
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "carvanha",
+    "name": "Carvanha",
+    "zones": [
+      10
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "tynamo",
+    "name": "Tynamo",
+    "zones": [
+      10
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "clauncher",
+    "name": "Clauncher",
+    "zones": [
+      11
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "furfrou",
+    "name": "Furfrou",
+    "zones": [
+      11,
+      19
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "inkay",
+    "name": "Inkay",
+    "zones": [
+      11
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "stunfisk",
+    "name": "Stunfisk",
+    "zones": [
+      11
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "delibird",
+    "name": "Delibird",
+    "zones": [
+      12
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "snover",
+    "name": "Snover",
+    "zones": [
+      12
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "bergmite",
+    "name": "Bergmite",
+    "zones": [
+      12
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "gogoat",
+    "name": "Gogoat",
+    "zones": [
+      12
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "snorunt",
+    "name": "Snorunt",
+    "zones": [
+      12
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "machoke",
+    "name": "Machoke",
+    "zones": [
+      12
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "heracross",
+    "name": "Heracross",
+    "zones": [
+      13
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "pinsir",
+    "name": "Pinsir",
+    "zones": [
+      13
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "onix",
+    "name": "Onix",
+    "zones": [
+      14
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "aron",
+    "name": "Aron",
+    "zones": [
+      14
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "lairon",
+    "name": "Lairon",
+    "zones": [
+      14
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "emolga",
+    "name": "Emolga",
+    "zones": [
+      14
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "helioptile",
+    "name": "Helioptile",
+    "zones": [
+      14
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "pumpkaboo",
+    "name": "Pumpkaboo",
+    "zones": [
+      15
+    ],
+    "condition": "Revisar horario",
+    "enabled": true
+  },
+  {
+    "key": "whirlipede",
+    "name": "Whirlipede",
+    "zones": [
+      15
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "beedrill",
+    "name": "Beedrill",
+    "zones": [
+      15
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "larvitar",
+    "name": "Larvitar",
+    "zones": [
+      15
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "falinks",
+    "name": "Falinks",
+    "zones": [
+      16
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "florges",
+    "name": "Florges",
+    "zones": [
+      16
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "froakie",
+    "name": "Froakie",
+    "zones": [
+      16
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "skarmory",
+    "name": "Skarmory",
+    "zones": [
+      17
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "pyroar",
+    "name": "Pyroar",
+    "zones": [
+      17
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "diggersby",
+    "name": "Diggersby",
+    "zones": [
+      17
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "chespin",
+    "name": "Chespin",
+    "zones": [
+      17
+    ],
+    "condition": "",
+    "enabled": true
+  },
+  {
+    "key": "fennekin",
+    "name": "Fennekin",
+    "zones": [
+      18
+    ],
+    "condition": "Revisar aparición",
+    "enabled": true
+  },
+  {
+    "key": "bagon",
+    "name": "Bagon",
+    "zones": [
+      18
+    ],
+    "condition": "",
+    "enabled": true
+  }
+]
